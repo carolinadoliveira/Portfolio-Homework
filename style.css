@@ -1,3 +1,27 @@
+@media (max-width: 500px) {
+  h1 {
+    text-align: center;
+    font-size: 48px;
+  }
+  h2 {
+    text-align: center;
+    font-size: 28px;
+  }
+  h3 {
+    text-align: center;
+    font-size: 18px;
+  }
+  p {
+    text-align: center;
+  }
+  img {
+    display: none;
+  }
+  .container {
+    text-align: center;
+  }
+}
+
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
